@@ -32,5 +32,4 @@ def chapter_1(player):
     typewrite(" foge pelas grades da cela,", 0.02, 0.5)
     typewrite(" deixando você com luz fraca da tocha que ilumina o corredor.", 0.02, 1)
 
-
 chapter_1(player)
